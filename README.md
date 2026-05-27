@@ -19,7 +19,8 @@ This project analyzes bike sales data to understand customer purchasing behavior
 - Dashboard Image (PNG)
 
 ## 📸 Dashboard Preview
-(Add your image here after uploading)
+<img width="1041" height="383" alt="image" src="https://github.com/user-attachments/assets/f9f1f952-3dee-4967-9eae-5f9cbdb14c52" />
+
 
 ## 🚀 Learnings
 - Data cleaning and preprocessing  
